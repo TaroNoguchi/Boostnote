@@ -1,49 +1,25 @@
-> We will launch the new Boost Note in January 2020. Please support us via [Kickstarter](https://www.kickstarter.com/projects/kazz-boostio/new-boost-note)!
+# Boostnoteのダウンロード
+https://boostnote.io/
 
-![Boostnote app screenshot](./resources/repository/top.png)
-
-<h4 align="center">Note-taking app for programmers. </h4>
-<h5 align="center">Apps available for Mac, Windows and Linux.</h5>
-<h5 align="center">Built with Electron, React + Redux, Webpack, and CSSModules.</h5>
-<p align="center">
-  <a href="https://travis-ci.org/BoostIO/Boostnote">
-    <img src="https://travis-ci.org/BoostIO/Boostnote.svg?branch=master" alt="Build Status" />
-  </a>
- </p>
-
-## Authors & Maintainers
-
-- [Rokt33r](https://github.com/rokt33r)
-- [Kazz](https://github.com/kazup01)
-- [ZeroX-DG](https://github.com/ZeroX-DG)
-
-## Contributors
-Thank you to all the people who have contributed to Boostnote!
-
-<a href="https://github.com/BoostIO/Boostnote/graphs/contributors"><img src="https://opencollective.com/boostnoteio/contributors.svg?width=890" /></a>
-
-## Supporting Boostnote
-Boostnote is an open source project. It's an independent project with its ongoing development made possible thanks to the support by our amazing backers.
-
-Issues on Boostnote can be funded by anyone and the money will be distributed to contributors and maintainers. If you use Boostnote please consider becoming a backer:
-
-[![Let's fund issues in this repository](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/repos/53266139)
-
-## Community
-- [Facebook Group](https://www.facebook.com/groups/boostnote/)
-- [Twitter](https://twitter.com/boostnoteapp)
-- [Slack Group](https://join.slack.com/t/boostnote-group/shared_invite/enQtMzkxOTk4ODkyNzc0LWQxZTQwNjBlMDI4YjkyYjg2MTRiZGJhNzA1YjQ5ODA5M2M0M2NlMjI5YjhiYWQzNzgzYmU0MDMwOTlmZmZmMGE)
-- [Blog](https://medium.com/boostnote)
-- [Reddit](https://www.reddit.com/r/Boostnote/)
+# Google Driveのダウンロード
+google driveをdropboxのように使う必要があるので, 会社のアカウントgoogle driveをpcの任意の場所にマウントしておく.(pcのフォルダ操作でgoogle drive上のファイルを触れるようにしておく)
 
 
-#### More Information
-* Website: https://boostnote.io
-* Newsletters: https://boostnote.io/#subscribe
-* [Development](https://github.com/BoostIO/Boostnote/blob/master/docs/build.md): Development configurations for Boostnote.
-* Copyright (C) 2016 - 2019 BoostIO, Inc.
+## Ubuntuはこれ
+https://mogi2fruits.net/blog/os-software/linux/ubuntu/4263/
 
+# Google Driveの共有フォルダをマイドライブと同期する
+会社のGoogle Drive共有アイテム(_member/)にBoostnoteフォルダがあるので右クリックして"マイドライブに追加"をクリック
 
-#### License
+Google Drive側の設定はこれでOK
 
-[GPL v3](./LICENSE).
+# Storage Locationの追加
+Ctrl + ,(⌘ + ,)で設定を開き, "ストレージ"から"ストレージロケーションを追加"をクリック.
+
+名前を"Amazing engin Domestic WIKI"(個々人のBoostnoteアプリに紐付いているだけの名前なので何でも良い)にする.
+
+保存場所を先程Google Driveをマウントしたディレクトリ内のBoostnoteディレクトリに指定する.
+
+これで以下のように表示されたらOK
+
+:warning: 画像を貼る場合は画像を先程のBoostnoteディレクトリ内に入れないと共有されないので注意
