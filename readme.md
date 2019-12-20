@@ -12,7 +12,7 @@ google driveをdropboxのように使う必要があるので, 会社のアカ�
 
 画像とかの同期の設定はとりあえずチェック外して任意の場所の任意のフォルダを共有場所として設定する.(:point_up_2:でいう"マウント")
 
-macだとこんな感じでFinderで共有フォルダが使えればOK
+macだとこんな感じでFinderでGoogle Driveのマイドライブが開ければOK
 
 <img width="763" alt="スクリーンショット 2019-12-20 14 25 56" src="https://user-images.githubusercontent.com/33983800/71232560-c5621600-2335-11ea-8333-41ace47855b2.png">
 
