@@ -25,6 +25,9 @@ https://mogi2fruits.net/blog/os-software/linux/ubuntu/4263/
 # Google Driveの共有フォルダをマイドライブと同期する
 会社のGoogle Drive共有アイテム(_member/)にBoostnoteフォルダがあるので右クリックして"マイドライブに追加"をクリック
 
+<img width="312" alt="スクリーンショット 2019-12-21 14 10 42" src="https://user-images.githubusercontent.com/33983800/71303423-ceb5b600-23fb-11ea-8aa2-f089325d8549.png">
+
+
 Google Drive側の設定はこれでOK
 
 # Storage Locationの追加
