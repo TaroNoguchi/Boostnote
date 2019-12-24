@@ -22,6 +22,9 @@ macだとこんな感じでFinderでGoogle Driveのマイドライブが開け�
 ## Ubuntuはこれ
 https://mogi2fruits.net/blog/os-software/linux/ubuntu/4263/
 
+自動起動設定の実行コマンドに以下を入力する
+/usr/bin/google-drive-ocamlfuse /home/ユーザー名/GoogleDriveをマウントしたディレクトリ名
+
 # Google Driveの共有フォルダをマイドライブと同期する
 会社のGoogle Drive共有アイテム(_member/)にBoostnoteフォルダがあるので右クリックして"マイドライブに追加"をクリック
 
