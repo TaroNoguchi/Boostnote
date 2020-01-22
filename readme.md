@@ -48,4 +48,5 @@ Ctrl + ,(⌘ + ,)で設定を開き, "ストレージ"から"ストレージロ�
 
 ![Screenshot from 2019-12-20 13-51-42](https://user-images.githubusercontent.com/33983800/71231674-5505c580-2332-11ea-88d3-cf2f10a5f4d6.png)
 
-:warning: 画像を貼る場合は画像を先程のBoostnoteディレクトリ内に入れないと共有されないので注意
+~~:warning: 画像を貼る場合は画像を先程のBoostnoteディレクトリ内に入れないと共有されないので注意~~
+画像をドラッグドロップで貼り付けると勝手に元の画像を`Boostnote/attachments`にコピーしてくれるので心配しなくて:ok:
